@@ -53,6 +53,11 @@ main section.categories-show {
           background: white;
           color: rgba(0, 130, 29, 0.7);
         }
+
+        button.soldout {
+          background: rgba(224, 14, 14, 0.8);
+          color: white;
+        }
       }
       img {
         width: 100%;
@@ -79,7 +84,7 @@ main section.categories-show {
       }
       div {
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-end;
         padding: 0.5em;
         form {
           display: inline-block;
