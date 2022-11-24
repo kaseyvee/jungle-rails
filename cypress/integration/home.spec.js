@@ -5,7 +5,7 @@ describe('Home Page', () => {
 
   it('displays homepage', () => {
     cy.get('h2')
-      .should('have.text', 'Where you can find any plants!')
+      .should('have.text', 'We got plants and thangs!')
   });
 
   it("There are products on the page", () => {
