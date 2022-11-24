@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "Product", type: :generator do
+RSpec.describe Product, type: :model do
   describe 'Validations' do
 
     it "should save successfully if given the required attributes" do
