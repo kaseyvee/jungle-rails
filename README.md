@@ -4,7 +4,14 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Final Product
 
+### Home Page
+![Jungle Home Page](https://github.com/kaseyvee/jungle-rails/blob/master/docs/home.png?raw=true)
 
+### View Product
+![Jungle Show Item](https://github.com/kaseyvee/jungle-rails/blob/master/docs/item.png?raw=true)
+
+### Customer Checkout with Stripe
+![Jungle Visitor's Cart](https://github.com/kaseyvee/jungle-rails/blob/master/docs/checkout.png?raw=true)
 
 ## Setup
 
